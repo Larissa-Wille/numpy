@@ -18,6 +18,7 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)
 
 Estou feliz por estar fazendo minha primeira edição!
+Estou aprendendo Git e GitHub com a TripleTen!
 NumPy is the fundamental package for scientific computing with Python.
 
 - **Website:** https://numpy.org
